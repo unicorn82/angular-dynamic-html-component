@@ -1,0 +1,4 @@
+{
+    "css" : ".newDirectiveClass { background: lightblue; color: blue }", 
+    "content": "<h1>Below is the dynamic HTML loaded</h1>\n<div><button appDirective1>Dynamic appDirective1 loaded, click to alter the message</button></div>\n<BR/>\n<div><span appDirective2>Dynamic appDirective2 loaded, css class has been changed</span></div>"
+}
